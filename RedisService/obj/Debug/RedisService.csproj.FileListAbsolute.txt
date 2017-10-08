@@ -1,0 +1,15 @@
+c:\users\asusnb\source\repos\RedisService\RedisService\bin\Debug\RedisService.exe.config
+c:\users\asusnb\source\repos\RedisService\RedisService\bin\Debug\RedisService.exe
+c:\users\asusnb\source\repos\RedisService\RedisService\bin\Debug\RedisService.pdb
+c:\users\asusnb\source\repos\RedisService\RedisService\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+c:\users\asusnb\source\repos\RedisService\RedisService\bin\Debug\Newtonsoft.Json.dll
+c:\users\asusnb\source\repos\RedisService\RedisService\bin\Debug\RabbitMQ.Client.dll
+c:\users\asusnb\source\repos\RedisService\RedisService\bin\Debug\StackExchange.Redis.dll
+c:\users\asusnb\source\repos\RedisService\RedisService\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+c:\users\asusnb\source\repos\RedisService\RedisService\bin\Debug\Newtonsoft.Json.xml
+c:\users\asusnb\source\repos\RedisService\RedisService\bin\Debug\RabbitMQ.Client.xml
+c:\users\asusnb\source\repos\RedisService\RedisService\bin\Debug\StackExchange.Redis.xml
+c:\users\asusnb\source\repos\RedisService\RedisService\obj\Debug\RedisService.csprojResolveAssemblyReference.cache
+c:\users\asusnb\source\repos\RedisService\RedisService\obj\Debug\RedisService.csproj.CoreCompileInputs.cache
+c:\users\asusnb\source\repos\RedisService\RedisService\obj\Debug\RedisService.exe
+c:\users\asusnb\source\repos\RedisService\RedisService\obj\Debug\RedisService.pdb
